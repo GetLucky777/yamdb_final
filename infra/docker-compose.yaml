@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: futurafree777/yamdb:1.0.0
+    image: futurafree777/yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static/

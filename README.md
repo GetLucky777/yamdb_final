@@ -1,4 +1,5 @@
 # Yamdb
+Проект развернут по адресу: http://62.84.123.176
 ![example workflow](https://github.com/GetLucky777/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 ## Описание проекта
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (Category) может быть расширен администратором.
